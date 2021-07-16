@@ -31,7 +31,7 @@ public class Transaction {
 	
 	private static final String driver = "com.mysql.jdbc.Driver";
 	private static final String conUrl = "jdbc:mysql://localhost:3306/bank?user=root"
-			+ "&password=priyanshi";
+			+ "&password=password";
 	
 	
 	
